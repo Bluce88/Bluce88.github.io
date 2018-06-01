@@ -2337,11 +2337,9 @@
 			}
 
 			#main > section.one {
-                background: #2980b9;
-		background-image: url("http://res.cloudinary.com/luce-designs/image/upload/v1527824683/orange-blue-gradient_gfdxll.png");
-                /* background: linear-gradient(to top, #2980b9, #23395b); */
-
-				/*background-image: url("http://res.cloudinary.com/luce-designs/image/upload/v1525766441/Air_Force_blue_vgnkwg.png");*/
+                	background: #2980b9;
+			background-image: url("http://res.cloudinary.com/luce-designs/image/upload/v1527824683/orange-blue-gradient_gfdxll.png");
+			background-size: cover;	
 			}
 
 			#main > section.two {
